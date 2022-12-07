@@ -1,0 +1,96 @@
+[
+  {
+    "id": 1,
+    "fullName": "Fayzullo",
+    "phoneNumber": "123",
+    "password": "12",
+    "role": [
+      "ADMIN"
+    ]
+  },
+  {
+    "id": 4,
+    "fullName": "Dilshod",
+    "phoneNumber": "193",
+    "password": "150",
+    "role": [
+      "WRITER"
+    ]
+  },
+  {
+    "id": 5,
+    "fullName": "Xolmat",
+    "phoneNumber": "194",
+    "password": "0",
+    "role": [
+      "MODERATOR",
+      "WRITER"
+    ]
+  },
+  {
+    "id": 45,
+    "fullName": "sarvar",
+    "phoneNumber": "+998903452130",
+    "password": "admin",
+    "role": [
+      "USER"
+    ]
+  },
+  {
+    "id": 6,
+    "fullName": "Ikrom",
+    "phoneNumber": "+998945643246",
+    "password": "adminjon",
+    "role": [
+      "USER",
+      "ADMIN"
+    ]
+  },
+  {
+    "id": 9,
+    "fullName": "Elmurod",
+    "phoneNumber": "+998976542970",
+    "password": "b22",
+    "role": [
+      "USER",
+      "WRITER"
+    ]
+  },
+  {
+    "id": 10,
+    "fullName": "Iskandar",
+    "phoneNumber": "+998975643289",
+    "password": "moderator",
+    "role": [
+      "USER",
+      "MODERATOR"
+    ]
+  },
+  {
+    "id": 0,
+    "fullName": "Farxod",
+    "phoneNumber": "+998954321257",
+    "password": "user",
+    "role": [
+      "USER"
+    ]
+  },
+  {
+    "id": 0,
+    "fullName": "Tolib",
+    "phoneNumber": "+998885643289",
+    "password": "user",
+    "role": [
+      "USER"
+    ]
+  },
+  {
+    "id": 0,
+    "fullName": "Murod",
+    "phoneNumber": "+998901234567",
+    "password": "user",
+    "role": [
+      "USER"
+    ]
+  }
+]
